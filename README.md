@@ -23,7 +23,9 @@ This repository includes:
 - model.pkl
 - requirements.txt
 - server.py 
-Please follow the instructions in README file within this folder to run app.
+
+**Please follow the instructions in README file within this folder to run app.**
+
 * .gitignore file
 * LICENSE file
 * #### Machine Learning & Statistics-Project2020: Please use this Jupyter Notebook as main project file, it contains all references, instructions and development of the model and the web app. 
